@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e code-bar-2gu3cqw474084be1 --n quickstartFunctions --r --project "/Users/haizi/Coding/mini_temp" --report_first --report
